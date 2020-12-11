@@ -1,0 +1,153 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+/*header start*/
+.header1{
+	padding: 10px 0;
+	background-color: #121B2A;
+}
+.wrapper{
+	overflow: hidden;
+	width: 80%;
+	/*border: 1px solid white;*/
+	margin: 0 auto;
+}
+.logo{
+	float: left;
+	width: 18%;
+	/*border: 1px solid white;*/
+}
+.logo img{
+	width: 100%;
+}
+.menu{
+	margin-top: 50px;
+	float: right;
+	width: 70%;
+	/*border: 1px solid white;*/
+}
+.menu ul{
+	float: right;
+}
+.menu ul li{
+	float: left;
+	list-style: none;
+}
+.menu ul li a{
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+	padding: 0 20px;
+	display: inline-block;
+}
+.menu ul li a:hover{
+	color: #0076BE;
+}
+.menu ul li:last-child a{
+	padding-right: 0;
+}
+/*header end*/
+/*header 2 start*/
+.header2{
+	margin-top: 10px;
+	padding: 10px 0;
+	background-color: #121B2A;
+}
+.wrapper2{
+	overflow: hidden;
+	width: 80%;
+	/*border: 1px solid white;*/
+	margin: 0 auto;
+}
+.logo2{
+	float: left;
+	width: 18%;
+	/*border: 1px solid yellow;*/
+}
+.logo2 img{
+	width: 100%;
+}
+.menu2{
+	margin-top: 55px;
+	float: right;
+	width: 75%;
+	/*border: 1px solid yellow;*/
+}
+.menu2 ul{
+	float: right;
+}
+.menu2 ul li{
+	list-style: none;
+	float: left;
+}
+.menu2 ul li a{
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+	padding: 0 20px;
+	display: inline-block;
+}
+.menu2 ul li:last-child a{
+	padding-right: 0;
+}
+.menu2 ul li a:hover{
+	color: #0076BE;
+}
+/*header 2 end*/
+/*header 3 start*/
+.header3{
+	margin-top: 10px;
+	padding: 10px 0;
+	background-color: #121B2A;
+}
+.wrapper3{
+	overflow: hidden;
+	width: 80%;
+	/*border: 1px solid yellow;*/
+	margin: 0 auto;
+}
+.logo3{
+	float: left;
+	width: 18%;
+	/*border: 1px solid yellow;*/
+}
+.logo3 img{
+	width: 100%;
+}
+.menu3{
+	float: right;
+	margin-top: 55px;
+	width: 80%;
+	/*border: 1px solid white;*/
+}
+.menu3 ul{
+	float: right;
+}
+.menu3 ul li{
+	float: left;
+	list-style: none;
+}
+.menu3 ul li a{
+	padding: 0 20px;
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	display: inline-block;
+}
+.menu3 ul li:last-child a{
+	padding-right: 0;
+}
+.menu3 ul li a:hover{
+	color: blue;
+}
+/*header 3 end*/
